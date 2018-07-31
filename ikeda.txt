@@ -1,9 +1,0 @@
-hogehoge + mjuytgeddd
-<<<<<<< HEAD
-
-やっぱりmasterブランチで更新しますよ
-=======
-
-新しいブランチで更新更新更新！
-
->>>>>>> ikeda
